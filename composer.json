@@ -1,5 +1,24 @@
 {
+    "name": "sadiq-bd/Alkane-PHP",
+    "type": "framework",
+    "description": "The PHP Framework for easy and flexible Development",
+    "keywords": ["framework","library"],
+    "homepage": "https://github.com/sadiq-bd/Alkane-PHP",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Sadiq Ahmed",
+            "email": "sadiq.developer.bd@gmail.com",
+            "homepage": "http://me.sadiqserver.tech",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "sadiq-bd/Alkane-PHP": "2.*"
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Alkane-PHP": "src"
+        }
     }
 }
