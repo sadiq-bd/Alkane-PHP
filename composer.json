@@ -14,11 +14,6 @@
         }
     ],
     "require": {
-
-    },
-    "autoload": {
-        "psr-0": {
-            "Alkane-PHP": "src"
-        }
+        "php": ">=7.4"
     }
 }
