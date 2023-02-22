@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sadiq-bd/Alkane-PHP": "2.*"
+    }
+}
