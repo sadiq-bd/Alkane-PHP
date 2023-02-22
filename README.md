@@ -1,6 +1,9 @@
 # Alkane PHP v2.0
     The PHP Framework for easy and flexible Development (v2.0)
 
+# Installing
+    composer require sadiq-bd/alkane-php
+
 # Basic Usages
 
     # Router
